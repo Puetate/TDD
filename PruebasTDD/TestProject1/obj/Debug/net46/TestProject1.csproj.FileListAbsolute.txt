@@ -1,0 +1,17 @@
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\bin\Debug\net46\NUnit3.TestAdapter.dll
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\bin\Debug\net46\NUnit3.TestAdapter.pdb
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\bin\Debug\net46\nunit.engine.dll
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\bin\Debug\net46\nunit.engine.api.dll
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\bin\Debug\net46\TestProject1.dll
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\bin\Debug\net46\TestProject1.pdb
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\bin\Debug\net46\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\bin\Debug\net46\nunit.framework.dll
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\bin\Debug\net46\EjemploTDD1.dll
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\bin\Debug\net46\EjemploTDD1.pdb
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\obj\Debug\net46\TestProject1.csproj.AssemblyReference.cache
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\obj\Debug\net46\TestProject1.AssemblyInfoInputs.cache
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\obj\Debug\net46\TestProject1.AssemblyInfo.cs
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\obj\Debug\net46\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\obj\Debug\net46\TestProject1.csproj.CopyComplete
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\obj\Debug\net46\TestProject1.dll
+C:\Users\kaise\source\repos\PruebasTDD\TestProject1\obj\Debug\net46\TestProject1.pdb
