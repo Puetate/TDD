@@ -64,7 +64,7 @@
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.9.4, )"
+              "version": "[15.0.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
