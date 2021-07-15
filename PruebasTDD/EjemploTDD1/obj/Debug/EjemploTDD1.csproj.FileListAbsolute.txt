@@ -1,0 +1,6 @@
+C:\Users\kaise\source\repos\PruebasTDD\EjemploTDD1\bin\Debug\EjemploTDD1.dll
+C:\Users\kaise\source\repos\PruebasTDD\EjemploTDD1\bin\Debug\EjemploTDD1.pdb
+C:\Users\kaise\source\repos\PruebasTDD\EjemploTDD1\obj\Debug\EjemploTDD1.csproj.AssemblyReference.cache
+C:\Users\kaise\source\repos\PruebasTDD\EjemploTDD1\obj\Debug\EjemploTDD1.csproj.CoreCompileInputs.cache
+C:\Users\kaise\source\repos\PruebasTDD\EjemploTDD1\obj\Debug\EjemploTDD1.dll
+C:\Users\kaise\source\repos\PruebasTDD\EjemploTDD1\obj\Debug\EjemploTDD1.pdb
